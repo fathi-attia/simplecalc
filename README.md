@@ -37,4 +37,8 @@ if ! echo "$COMMIT_MSG" | grep -Eq "$PATTERN"; then
     exit 1
 fi
 
+
+
+a
+
 exit 0
