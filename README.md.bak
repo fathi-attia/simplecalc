@@ -1,4 +1,6 @@
-# simplecalc
+# 
+fathi
+simplecalc
 simplecalc
 copy and past
 #!/bin/sh
@@ -36,5 +38,9 @@ if ! echo "$COMMIT_MSG" | grep -Eq "$PATTERN"; then
     echo "Example: 'SC-123 Fix login issue'"
     exit 1
 fi
+
+
+
+a
 
 exit 0
